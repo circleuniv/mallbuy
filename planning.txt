@@ -1,0 +1,7 @@
+User can see a list of grocery
+User can buy a product if stocks not empty
+User can receive receipt
+
+Class:
+Product
+Receipt
